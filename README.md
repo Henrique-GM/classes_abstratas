@@ -1,3 +1,1 @@
-# classes_abstratas
-
-teste 
+# classes_abstrata
